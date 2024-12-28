@@ -18,28 +18,28 @@ export default function Footer() {
               </p>
               <div className="d-flex footer-icon">
                 <Link
-                  href="https://www.linkedin.com/in/mohamed-fawzzi98/"
+                  to="https://www.linkedin.com/in/mohamed-fawzzi98/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <i className="fa-brands fa-linkedin cursor-pointer"></i>
                 </Link>
                 <Link
-                  href="https://github.com/Mohammed-Fawzzi"
+                  to="https://github.com/Mohammed-Fawzzi"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <i className="fa-brands fa-github ps-4 cursor-pointer"></i>
                 </Link>
                 <Link
-                  href="https://www.facebook.com/mofawzzi14/"
+                  to="https://www.facebook.com/mofawzzi14/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <i className="fa-brands fa-facebook-f ps-4 cursor-pointer"></i>
                 </Link>
                 <Link
-                  href="https://x.com/muhammed_fawzzi"
+                  to="https://x.com/muhammed_fawzzi"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -77,14 +77,14 @@ export default function Footer() {
         </div>
         <p className="text-center pt-3 footer-rights">
           © All Rights Reserved{" "}
-          <a
-            href="tel:+20121580334"
+          <Link
+            to="tel:+20121580334"
             rel="noopener noreferrer"
             target="_blank"
             className="fw-bold text-decoration-none"
           >
             Mohamed Fawzzi.
-          </a>
+          </Link>
         </p>
       </footer>
     </>
