@@ -12,7 +12,7 @@ export default function Footer() {
               <img src={fLogo} alt="footer-logo" className='footer-logo'/>
               <p className='py-4 text-white-50'>But I must explain to you how all this mistaken idea of denouncing pleasure pain was born and I will give you a complete.</p>
               <div className='d-flex footer-icon'>
-                <a href='https://www.linkedin.com/in/mohamed-fawzzi-72b962280/' target='_blank' rel='noopener noreferrer'>
+                <a href='https://www.linkedin.com/in/mohamed-fawzzi98/' target='_blank' rel='noopener noreferrer'>
                   <i className='fa-brands fa-linkedin cursor-pointer'></i>
                 </a>
                 <a href='https://github.com/Mohammed-Fawzzi' target='_blank' rel='noopener noreferrer'>
