@@ -16,7 +16,7 @@ export default function Footer() {
                 denouncing pleasure pain was born and I will give you a
                 complete.
               </p>
-              <div className="d-flex footer-icon">
+              <div className="d-flex gap-4 footer-icon">
                 <Link
                   to="https://www.linkedin.com/in/mohamed-fawzzi98/"
                   target="_blank"
@@ -37,13 +37,6 @@ export default function Footer() {
                   rel="noopener noreferrer"
                 >
                   <i className="fa-brands fa-facebook-f ps-4 cursor-pointer"></i>
-                </Link>
-                <Link
-                  to="https://x.com/muhammed_fawzzi"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <i className="fa-brands fa-x-twitter ps-4 cursor-pointer"></i>
                 </Link>
               </div>
             </div>
