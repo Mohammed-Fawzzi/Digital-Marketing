@@ -1,6 +1,6 @@
 import React from "react";
-import fLogo from "../../Assets/f-logo.png";
-import fCol from "../../Assets/02.png";
+import fLogo from "@/assets/f-logo.png";
+import fCol from "@/assets/02.png";
 import { Link } from "react-router-dom";
 
 export default function Footer() {
@@ -32,11 +32,11 @@ export default function Footer() {
                   <i className="fa-brands fa-github ps-4 cursor-pointer"></i>
                 </Link>
                 <Link
-                  to="https://www.facebook.com/mofawzzi14/"
+                  to="https://wa.me/+201021580334"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <i className="fa-brands fa-facebook-f ps-4 cursor-pointer"></i>
+                  <i className="fa-brands fa-whatsapp ps-4 cursor-pointer"></i>
                 </Link>
               </div>
             </div>
@@ -45,16 +45,16 @@ export default function Footer() {
               <h3 className="text-white">Let's talk</h3>
               <div className="footer-connection d-flex flex-column">
                 <span className="text-white-50">
-                  <i className="text-white fa-regular fa-envelope py-3 pe-2"></i>{" "}
-                  info@yourdomain.com
+                  <i className="text-white fa-regular fa-envelope py-3 pe-2"></i>
+                  mohamedfawzzimohamed@gmail.com
                 </span>
                 <span className="text-white-50">
-                  <i className="text-white pe-2 fa-solid fa-phone pb-3"></i> +7
-                  (212) 654-33-35
+                  <i className="text-white pe-2 fa-solid fa-mobile pb-3"></i>
+                  +201021580334
                 </span>
                 <span className="text-white-50">
-                  <i className="text-white pe-2 fa-solid fa-location-dot"></i>{" "}
-                  patricia C. Amedee 4401{" "}
+                  <i className="text-white pe-2 fa-solid fa-location-dot"></i>
+                  Cairo, Egypt
                 </span>
               </div>
             </div>
