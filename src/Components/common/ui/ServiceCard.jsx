@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default function ServiceCard({ icon, title, vacancies }) {
   return (

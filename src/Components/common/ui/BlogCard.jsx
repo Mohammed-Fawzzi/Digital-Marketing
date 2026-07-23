@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 export default function BlogCard({ image, date, category, title, isLast }) {
   return (
-    <div className={`row border-top ${isLast ? 'border-bottom' : ''} py-5`}>
+    <div className={`row border-top ${isLast ? "border-bottom" : ""} py-5`}>
       <div className="col-md-3">
         <img
           src={image}
