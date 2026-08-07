@@ -1,9 +1,9 @@
 import React from "react";
-import Navbar from "@/components/Layout/Navbar";
-import Footer from "@/components/Layout/Footer";
+import Navbar from "@/components/layout/Navbar";
+import Footer from "@/components/layout/Footer";
 import { Outlet } from "react-router-dom";
 
-export default function layout() {
+export default function Layout() {
   return (
     <div className="App overflow-hidden">
       <Navbar />
