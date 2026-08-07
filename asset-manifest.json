@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Digital-Marketing/static/css/main.70cb1973.css",
-    "main.js": "/Digital-Marketing/static/js/main.2e021063.js",
-    "static/js/707.4a765ea3.chunk.js": "/Digital-Marketing/static/js/707.4a765ea3.chunk.js",
-    "static/js/515.9653cac9.chunk.js": "/Digital-Marketing/static/js/515.9653cac9.chunk.js",
-    "static/js/96.924cac38.chunk.js": "/Digital-Marketing/static/js/96.924cac38.chunk.js",
-    "static/js/951.117284c7.chunk.js": "/Digital-Marketing/static/js/951.117284c7.chunk.js",
-    "static/js/760.83b74fd2.chunk.js": "/Digital-Marketing/static/js/760.83b74fd2.chunk.js",
-    "static/js/954.db8b05a4.chunk.js": "/Digital-Marketing/static/js/954.db8b05a4.chunk.js",
+    "main.css": "/Digital-Marketing/static/css/main.4d6e0891.css",
+    "main.js": "/Digital-Marketing/static/js/main.afb2d1b1.js",
+    "static/js/568.ec4fcde2.chunk.js": "/Digital-Marketing/static/js/568.ec4fcde2.chunk.js",
+    "static/js/642.dd5ecb6a.chunk.js": "/Digital-Marketing/static/js/642.dd5ecb6a.chunk.js",
+    "static/js/495.7279f84e.chunk.js": "/Digital-Marketing/static/js/495.7279f84e.chunk.js",
+    "static/js/630.00b9fc93.chunk.js": "/Digital-Marketing/static/js/630.00b9fc93.chunk.js",
+    "static/js/771.08c48fea.chunk.js": "/Digital-Marketing/static/js/771.08c48fea.chunk.js",
+    "static/js/424.aa9276dc.chunk.js": "/Digital-Marketing/static/js/424.aa9276dc.chunk.js",
+    "static/js/344.7f0c5a43.chunk.js": "/Digital-Marketing/static/js/344.7f0c5a43.chunk.js",
+    "static/js/591.131a632d.chunk.js": "/Digital-Marketing/static/js/591.131a632d.chunk.js",
     "static/media/fa-solid-900.ttf": "/Digital-Marketing/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/Digital-Marketing/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/Digital-Marketing/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -33,17 +35,19 @@
     "static/media/Group-28.svg": "/Digital-Marketing/static/media/Group-28.240056bf1a85a6ecc0e6.svg",
     "static/media/404.svg": "/Digital-Marketing/static/media/404.507bf77fb4fa62922e61e9319951fde5.svg",
     "index.html": "/Digital-Marketing/index.html",
-    "main.70cb1973.css.map": "/Digital-Marketing/static/css/main.70cb1973.css.map",
-    "main.2e021063.js.map": "/Digital-Marketing/static/js/main.2e021063.js.map",
-    "707.4a765ea3.chunk.js.map": "/Digital-Marketing/static/js/707.4a765ea3.chunk.js.map",
-    "515.9653cac9.chunk.js.map": "/Digital-Marketing/static/js/515.9653cac9.chunk.js.map",
-    "96.924cac38.chunk.js.map": "/Digital-Marketing/static/js/96.924cac38.chunk.js.map",
-    "951.117284c7.chunk.js.map": "/Digital-Marketing/static/js/951.117284c7.chunk.js.map",
-    "760.83b74fd2.chunk.js.map": "/Digital-Marketing/static/js/760.83b74fd2.chunk.js.map",
-    "954.db8b05a4.chunk.js.map": "/Digital-Marketing/static/js/954.db8b05a4.chunk.js.map"
+    "main.4d6e0891.css.map": "/Digital-Marketing/static/css/main.4d6e0891.css.map",
+    "main.afb2d1b1.js.map": "/Digital-Marketing/static/js/main.afb2d1b1.js.map",
+    "568.ec4fcde2.chunk.js.map": "/Digital-Marketing/static/js/568.ec4fcde2.chunk.js.map",
+    "642.dd5ecb6a.chunk.js.map": "/Digital-Marketing/static/js/642.dd5ecb6a.chunk.js.map",
+    "495.7279f84e.chunk.js.map": "/Digital-Marketing/static/js/495.7279f84e.chunk.js.map",
+    "630.00b9fc93.chunk.js.map": "/Digital-Marketing/static/js/630.00b9fc93.chunk.js.map",
+    "771.08c48fea.chunk.js.map": "/Digital-Marketing/static/js/771.08c48fea.chunk.js.map",
+    "424.aa9276dc.chunk.js.map": "/Digital-Marketing/static/js/424.aa9276dc.chunk.js.map",
+    "344.7f0c5a43.chunk.js.map": "/Digital-Marketing/static/js/344.7f0c5a43.chunk.js.map",
+    "591.131a632d.chunk.js.map": "/Digital-Marketing/static/js/591.131a632d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70cb1973.css",
-    "static/js/main.2e021063.js"
+    "static/css/main.4d6e0891.css",
+    "static/js/main.afb2d1b1.js"
   ]
 }
